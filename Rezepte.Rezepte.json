@@ -1,0 +1,369 @@
+[{
+  "_id": {
+    "$oid": "65fc5efa7be3bdd55528090b"
+  },
+  "recipe_id": 5,
+  "recipe_name": "Pilzrisotto",
+  "ingredients": [
+    {
+      "name": "Arborio Reis",
+      "amount": "300g"
+    },
+    {
+      "name": "Champignons",
+      "amount": "200g"
+    },
+    {
+      "name": "Zwiebel",
+      "amount": "1"
+    },
+    {
+      "name": "Knoblauchzehen",
+      "amount": "2"
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": "1 Liter"
+    },
+    {
+      "name": "Weißwein",
+      "amount": "100ml"
+    },
+    {
+      "name": "Parmesan",
+      "amount": "50g"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 Esslöffel"
+    },
+    {
+      "name": "Olivenöl"
+    },
+    {
+      "name": "Salz"
+    },
+    {
+      "name": "Schwarzer Pfeffer"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc5f8c7be3bdd55528090c"
+  },
+  "recipe_id": 6,
+  "recipe_name": "Tomaten-Basilikum-Spaghetti",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "400g"
+    },
+    {
+      "name": "Kirschtomaten",
+      "amount": "250g"
+    },
+    {
+      "name": "Frischer Basilikum",
+      "amount": "1 Bund"
+    },
+    {
+      "name": "Knoblauchzehen",
+      "amount": "2"
+    },
+    {
+      "name": "Olivenöl",
+      "amount": "3 Esslöffel"
+    },
+    {
+      "name": "Parmesan",
+      "amount": "50g"
+    },
+    {
+      "name": "Salz"
+    },
+    {
+      "name": "Schwarzer Pfeffer"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc5fe07be3bdd55528090d"
+  },
+  "recipe_id": 7,
+  "recipe_name": "Gemüse-Curry",
+  "ingredients": [
+    {
+      "name": "Kokosmilch",
+      "amount": "400ml"
+    },
+    {
+      "name": "Currypaste",
+      "amount": "2 Esslöffel"
+    },
+    {
+      "name": "Süßkartoffel",
+      "amount": "1"
+    },
+    {
+      "name": "Brokkoli",
+      "amount": "1 Kopf"
+    },
+    {
+      "name": "Karotten",
+      "amount": "2"
+    },
+    {
+      "name": "Zwiebel",
+      "amount": "1"
+    },
+    {
+      "name": "Knoblauchzehen",
+      "amount": "2"
+    },
+    {
+      "name": "Ingwer",
+      "amount": "1 Stück"
+    },
+    {
+      "name": "Salz"
+    },
+    {
+      "name": "Pfeffer"
+    },
+    {
+      "name": "Olivenöl",
+      "amount": "1 Esslöffel"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc5ffe7be3bdd55528090e"
+  },
+  "recipe_id": 8,
+  "recipe_name": "Käsespätzle",
+  "ingredients": [
+    {
+      "name": "Spätzle",
+      "amount": "500g"
+    },
+    {
+      "name": "Emmentaler",
+      "amount": "200g"
+    },
+    {
+      "name": "Zwiebeln",
+      "amount": "2"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 Esslöffel"
+    },
+    {
+      "name": "Salz"
+    },
+    {
+      "name": "Pfeffer"
+    },
+    {
+      "name": "Muskatnuss"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc602b7be3bdd55528090f"
+  },
+  "recipe_id": 9,
+  "recipe_name": "Linsensuppe",
+  "ingredients": [
+    {
+      "name": "Rote Linsen",
+      "amount": "200g"
+    },
+    {
+      "name": "Zwiebel",
+      "amount": "1"
+    },
+    {
+      "name": "Karotten",
+      "amount": "2"
+    },
+    {
+      "name": "Kartoffeln",
+      "amount": "2"
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": "1 Liter"
+    },
+    {
+      "name": "Kreuzkümmel",
+      "amount": "1 Teelöffel"
+    },
+    {
+      "name": "Paprikapulver",
+      "amount": "1 Teelöffel"
+    },
+    {
+      "name": "Salz"
+    },
+    {
+      "name": "Schwarzer Pfeffer"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc603d7be3bdd555280910"
+  },
+  "recipe_id": 10,
+  "recipe_name": "Kartoffelauflauf",
+  "ingredients": [
+    {
+      "name": "Kartoffeln",
+      "amount": "1kg"
+    },
+    {
+      "name": "Sahne",
+      "amount": "200ml"
+    },
+    {
+      "name": "Milch",
+      "amount": "200ml"
+    },
+    {
+      "name": "Eier",
+      "amount": "3"
+    },
+    {
+      "name": "Knoblauchzehen",
+      "amount": "2"
+    },
+    {
+      "name": "Muskatnuss",
+      "amount": "1 Prise"
+    },
+    {
+      "name": "Käse",
+      "amount": "200g"
+    },
+    {
+      "name": "Salz"
+    },
+    {
+      "name": "Pfeffer"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc60567be3bdd555280911"
+  },
+  "recipe_id": 11,
+  "recipe_name": "Hühnerfrikassee",
+  "ingredients": [
+    {
+      "name": "Hühnerbrust",
+      "amount": "500g"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Mehl",
+      "amount": "50g"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc676ece2ba95dc5f2f647"
+  },
+  "recipe_id": {
+    "$numberLong": "1617537028065"
+  },
+  "recipe_name": "Ei mit Speck",
+  "ingredients": [
+    {
+      "name": "Ei",
+      "amount": "1"
+    },
+    {
+      "name": "Speck",
+      "amount": "100g"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc68cfce2ba95dc5f2f648"
+  },
+  "recipe_id": {
+    "$numberLong": "788224109324"
+  },
+  "recipe_name": "Tomatensuppe",
+  "ingredients": [
+    {
+      "name": "Tomaten",
+      "amount": "3 Stück"
+    },
+    {
+      "name": "Sahne",
+      "amount": "2 EL"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc69b0ce2ba95dc5f2f649"
+  },
+  "recipe_id": {
+    "$numberLong": "1291525719821"
+  },
+  "recipe_name": "Toms Burgir",
+  "ingredients": [
+    {
+      "name": "Burgerbrötchen",
+      "amount": "1"
+    },
+    {
+      "name": "Floisch",
+      "amount": "200g"
+    },
+    {
+      "name": "Salatblatt",
+      "amount": "2"
+    },
+    {
+      "name": "Senf",
+      "amount": "nach Geschmack"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "nach Geschmack"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fc6a0fce2ba95dc5f2f64a"
+  },
+  "recipe_id": {
+    "$numberLong": "1098381267477"
+  },
+  "recipe_name": "Milchreis",
+  "ingredients": [
+    {
+      "name": "Milch",
+      "amount": "1 Liter"
+    },
+    {
+      "name": "Reis",
+      "amount": "500g"
+    }
+  ]
+}]
